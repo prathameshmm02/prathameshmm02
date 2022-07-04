@@ -9,6 +9,7 @@
 - Member and current developer of [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator & Converter for Android
 - [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) - Material Design 3 Theme Engine Library
+- [Chatty](https://github.com/prathameshmm02/Chatty) - Chat web application made with React
 
 ## Software & Technologies
 
