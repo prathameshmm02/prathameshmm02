@@ -2,8 +2,8 @@
 
 ## About
 - A self-taught programmer.
-- I am currently developing Web applications.
-- I know React, Next.js, NestJS, Kotlin & Java.
+- I am currently developing React Native & Web applications.
+- I know React Native, React, Next.js, NestJS, Kotlin & Java.
 
 ## Projects
 
@@ -14,7 +14,8 @@
 
 ## Skills
 
-![React](https://img.shields.io/badge/REACT-3776AB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/REACT-3776AB?style=for-the-badge&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
